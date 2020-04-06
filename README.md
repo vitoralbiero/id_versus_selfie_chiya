@@ -1,6 +1,6 @@
 # Identity Document to Selfie Face Matching Across Adolescence
 
-This repository contains the fine-tuned model proposed in the paper https://arxiv.org/abs/1912.10021.
+This repository contains the fine-tuned model proposed in the paper ["Identity Document to Selfie Face Matching Across Adolescence"](https://arxiv.org/abs/1912.10021).
 
 The model can be download [here](https://drive.google.com/open?id=1wpDk77bfjMxSu2_eKNfg6M4exVM7lO4U).
 
