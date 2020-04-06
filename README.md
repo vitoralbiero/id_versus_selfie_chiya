@@ -23,3 +23,13 @@ If you use our model, please cite the paper below.
     archivePrefix={arXiv}
 }
 ```
+
+If you use our cleaned version of the Public-IvS, please cite both the paper above and the original paper below.
+```
+@article{ivs,
+  title={Large-scale bisample learning on id versus spot face recognition},
+  author={Zhu, Xiangyu and Liu, Hao and Lei, Zhen and Shi, Hailin and Yang, Fan and Yi, Dong and Qi, Guojun and Li, Stan Z},
+  journal={International Journal of Computer Vision},
+  year={2019},
+}
+```
