@@ -6,9 +6,9 @@ The model can be download [here](https://drive.google.com/open?id=1wpDk77bfjMxSu
 
 The cleaned Public-IvS that is used in the paper can be found [here](https://drive.google.com/open?id=1qSwX7hDmww-A2Zwo5EUP9nZaOpc3RLJw).
 
-To extract features using the model provided, use [insightface_feature_extraction](https://github.com/vitoralbiero/face_matching/blob/master/insightface_feature_extraction.py).
+To extract features using the model provided, use [insightface_feature_extraction.py](https://github.com/vitoralbiero/face_matching/blob/master/insightface_feature_extraction.py).
 
-And to match features, use [mult_feature_match_list](https://github.com/vitoralbiero/face_matching/blob/master/mult_feature_match_list.py).
+And to match features, use [mult_feature_match_list.py](https://github.com/vitoralbiero/face_matching/blob/master/mult_feature_match_list.py).
 
 You will need a copy of the InsighFace [deploy folder](https://github.com/deepinsight/insightface/tree/master/deploy).
 
