@@ -10,7 +10,7 @@ To extract features using the model provided, use [insightface_feature_extractio
 
 And to match features, use [mult_feature_match_list.py](https://github.com/vitoralbiero/face_matching/blob/master/mult_feature_match_list.py).
 
-You will need a copy of the InsighFace [deploy folder](https://github.com/deepinsight/insightface/tree/master/deploy).
+You will need a copy of the InsighFace [deploy folder](https://github.com/vitoralbiero/insightface/tree/master/deploy).
 
 If you use our model, please cite the paper below.
 
