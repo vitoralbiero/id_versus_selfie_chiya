@@ -11,6 +11,8 @@ To extract features using the model provided, use [insightface_feature_extractio
 
 And to match features, use [mult_feature_match_list.py](https://github.com/vitoralbiero/face_matching/blob/master/mult_feature_match_list.py) or [feature_match_efficient.py](https://github.com/vitoralbiero/face_matching/blob/master/feature_match_efficient.py) (much faster, but requires a lot of memory).
 
+Scripts to plot results can be found [here](https://github.com/vitoralbiero/face_matching/tree/master/Plots).
+
 You will need a copy of the InsighFace [repo](https://github.com/vitoralbiero/insightface/).
 Point the ```insightface_feature_extraction.py``` to the folder ```deploy``` inside of the InsighFace repo.
 
